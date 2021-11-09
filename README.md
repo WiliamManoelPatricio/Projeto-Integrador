@@ -14,7 +14,7 @@ Vamos usar o GitHub pra fazer as alterações no código fonte. (Lembrando que c
 
 # Tema
 
-O tema está no repositorio, porém escolhemos fazer o primeiro enunciado, onde nos iremos fazer um sistema de supermercado, tendo a visão do gerente,empregado e administrador.  visão do empregado, seria feita como um operador de caixa, tendo uma calculadora pra ele poder somar o preço dos produtos. Já na visão do gerente ele poderia ter a visão de todo os funcionarios, assim podendo ser chamado a qualquer hora, quando um empregado apertar um botão. O gerente também poderia olhar o estoque e comprar os produtos necessários pra repor o estoque. A base de todo esse enunciado está no nosso trello caso queiram entrem no link abaixo e olhem:
+O tema está no repositorio, porém escolhemos fazer o primeiro enunciado, onde nos iremos fazer um sistema de supermercado, tendo a visão do gerente,empregado e dono.  visão do empregado, seria feita como um operador de caixa, tendo uma calculadora pra ele poder somar o preço dos produtos. Já na visão do gerente ele poderia ter a visão de todo os funcionarios(No caso n tem como, pois só temos login como Dono, Gerente e Operador), assim podendo ser chamado a qualquer hora, quando um empregado apertar um botão. O gerente também poderia olhar o estoque e comprar os produtos necessários pra repor o estoque. A base de todo esse enunciado está no nosso trello caso queiram entrem no link abaixo e olhem:
 
 https://trello.com/b/FW9ThmCE/demanda-de-organiza%C3%A7%C3%A3o-e-controle-de-sistema-da-informa%C3%A7%C3%A3o
 
