@@ -3,10 +3,10 @@ Fazemos parte do projeto integrador senac, com a finalidade de fazer um trabalho
 # Integrantes:
 ```diff
 + Wiliam Manoel Patricio(Scrum Master)
-+ Jean Vitor Zimmermann
-+ Joao Roberto Schramm
-+ Lucas GRAMKOW ALVES DE DEUS
-+ Guilherme SCHIOCHET
+- Jean Vitor Zimmermann
+- Joao Roberto Schramm
+- Lucas GRAMKOW ALVES DE DEUS
+- Guilherme SCHIOCHET
 + Gustavo
 ```
 # Funcionamento:
