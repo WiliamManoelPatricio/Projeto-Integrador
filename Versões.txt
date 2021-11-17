@@ -1,0 +1,13 @@
+Suporta somente versões com Java Development Kit(JDK) acima de 16 e JRE 1.6;
+
+Porta a maioria das versões do sistema operacional Windows, do Vista ao 10;
+
+Não possui suporte a MAC e nem a Linux;
+
+Não reinicializa junto com o sistema(Tem que concertar);
+
+
+
+
+Grupo 3, Senac
+Versão 1.1.2
